@@ -1,4 +1,4 @@
-# Python-Regression-Based-Analysis
+# Regression Based Analysis
 Building a model to predict how much revenue to expect from each customer within their first year of orders.
 
 To view Python code:
